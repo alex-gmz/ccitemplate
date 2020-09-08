@@ -1,10 +1,16 @@
-[
-  {
-    "animal": elephant,
-    "chiffre": 12,
-  }
-  {
-    "animal": souris,
-    "chiffre": 32,
-  }
-]
+{
+  "items" : [
+    {
+      "animal" : "Elephant",
+      "age" : 29,
+    },
+    {
+      "animal" : "Rat",
+      "age" : 27,
+    },
+    {
+      "animal" : "Souris",
+      "age" : 9,
+    }
+  ]
+}
