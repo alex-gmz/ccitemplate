@@ -1,8 +1,14 @@
 [
   {
-    "elephant": 12,
-    "lion": 23,
-    "souris": 34,
-    "t-rex": 45
+    "animal": elephant,
+    "chiffre": 12,
+  }
+  {
+    "animal": souris,
+    "chiffre": 32,
+  }
+   {
+    "animal": T-rex,
+    "chiffre": 37,
   }
 ]
