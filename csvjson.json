@@ -4,16 +4,37 @@
       "name" : "Molecule Man",
       "age" : 29,
       "secretIdentity" : "Dan Jukes",
+          "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
     },
     {
       "name" : "Madame Uppercut",
       "age" : 39,
       "secretIdentity" : "Jane Wilson",
+          "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
     },
     {
       "name" : "Eternal Flame",
       "age" : 1000000,
       "secretIdentity" : "Unknown",
+          "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
     }
   ]
 }
